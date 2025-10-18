@@ -1,5 +1,8 @@
 ### This project uses the LSTM model and the seq2seq LSTM transformer model architecture on the Bitcoin dataset to make 24 predictions about the future.
 
-<img width="397" height="770" alt="Screenshot 2025-10-14 203403" src="https://github.com/user-attachments/assets/03e052c6-c8ac-452e-807c-693600d86c3d" />
+### Model Performance Differences
+<img width="691" height="756" alt="image" src="https://github.com/user-attachments/assets/adb89f6a-db68-493d-b694-ca5231a3d49c" />
 
-<img width="1077" height="592" alt="Screenshot 2025-10-14 203353" src="https://github.com/user-attachments/assets/17cc56b6-8faf-4198-9ba4-d0daf23c914b" />
+### Visualization Model Performance Differences
+<img width="1017" height="576" alt="image" src="https://github.com/user-attachments/assets/c1a2b640-e570-4994-923e-2a26d1a95642" />
+
